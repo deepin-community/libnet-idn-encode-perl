@@ -1,0 +1,3 @@
+# the files contain perl test code and only refer to the RFCs
+libnet-idn-encode-perl source: license-problem-non-free-RFC t/punycode_vec-pp.t
+libnet-idn-encode-perl source: license-problem-non-free-RFC t/punycode_vec-xs.t
